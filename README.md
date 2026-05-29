@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Mahasiswa tingkat akhir Sistem Informasi di Universitas Universal yang memiliki ketertarikan mendalam dalam menerjemahkan ide bisnis kompleks menjadi solusi digital yang elegan, responsif, dan <i>scalable</i>.
+  Mahasiswa tingkat akhir Sistem Informasi di <b>Universitas Universal, Batam</b> yang memiliki ketertarikan mendalam dalam menerjemahkan ide bisnis kompleks menjadi solusi digital yang elegan, responsif, dan <i>scalable</i>.
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-itan1&stroke=005A9C&background=ffffff&ring=005A9C&fire=005A9C&currStreakNum=333333&sideLabels=333333&hide_border=true" alt="Vincent's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentI123&stroke=005A9C&background=ffffff&ring=005A9C&fire=005A9C&currStreakNum=333333&sideLabels=333333&hide_border=true" alt="Vincent's GitHub Streak" />
 </p>
 
 ---
