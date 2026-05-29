@@ -66,7 +66,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentI123&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="Vincent's GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=VincentI123&label=Profile%20Views&color=005A9C&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
