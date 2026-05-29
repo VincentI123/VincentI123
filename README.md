@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Mahasiswa tingkat akhir Sistem Informasi yang memiliki ketertarikan mendalam dalam menerjemahkan ide bisnis kompleks menjadi solusi digital yang elegan, responsif, dan <i>scalable</i>.
+  Mahasiswa tingkat akhir Sistem Informasi di Universitas Universal yang memiliki ketertarikan mendalam dalam menerjemahkan ide bisnis kompleks menjadi solusi digital yang elegan, responsif, dan <i>scalable</i>.
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincent-itan1&show_icons=true&title_color=005A9C&icon_color=005A9C&text_color=333333&bg_color=ffffff&hide_border=true&count_private=true" alt="Vincent's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VincentI123&show_icons=true&title_color=005A9C&icon_color=005A9C&text_color=333333&bg_color=ffffff&hide_border=true&count_private=true" alt="Vincent's GitHub Stats" />
 </p>
 
 <p align="center">
