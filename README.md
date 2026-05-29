@@ -66,11 +66,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentI123&show_icons=true&title_color=005A9C&icon_color=005A9C&text_color=333333&bg_color=ffffff&hide_border=true&count_private=true" alt="Vincent's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VincentI123&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="Vincent's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentI123&stroke=005A9C&background=ffffff&ring=005A9C&fire=005A9C&currStreakNum=333333&sideLabels=333333&hide_border=true" alt="Vincent's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentI123&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Vincent's GitHub Streak" />
 </p>
 
 ---
