@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005FFF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Mobile+Developer;Information+Systems+Student;Building+Digital+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005A9C&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Mobile+Developer;Information+Systems+Student;Building+Digital+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,12 +12,11 @@
 
 <p align="center">
   <a href="mailto:vi.mework@gmail.com">
-    <img src="https://img.shields.io/badge/Email-005FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-005A9C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/vincent-itan1/">
-    <img src="https://img.shields.io/badge/LinkedIn-005FFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-005A9C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=VincentI123&label=Views&color=005FFF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -67,7 +66,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentI123&stroke=005FFF&background=0d1117&ring=005FFF&fire=005FFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Vincent's GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=VincentI123&label=Profile%20Views&color=005A9C&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentI123&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Vincent's GitHub Streak" />
 </p>
 
 ---
